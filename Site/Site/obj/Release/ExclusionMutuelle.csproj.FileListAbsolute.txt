@@ -1,0 +1,17 @@
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Release\ExclusionMutuelle.exe.config
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Release\ExclusionMutuelle.exe
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Release\ExclusionMutuelle.pdb
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Release\MahApps.Metro.dll
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Release\MahApps.Metro.xml
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\App.baml
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\App.g.cs
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\MainWindow.baml
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle.g.resources
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle.exe
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Release\ExclusionMutuelle.pdb

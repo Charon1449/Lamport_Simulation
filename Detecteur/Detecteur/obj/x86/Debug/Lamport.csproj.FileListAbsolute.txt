@@ -1,0 +1,16 @@
+C:\Users\Ahmed\Desktop\Lamport\Lamport\bin\Debug\Lamport.exe
+C:\Users\Ahmed\Desktop\Lamport\Lamport\bin\Debug\Lamport.pdb
+C:\Users\Ahmed\Desktop\Lamport\Lamport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Lamport\Lamport\obj\x86\Debug\Lamport.exe
+C:\Users\Ahmed\Desktop\Lamport\Lamport\obj\x86\Debug\Lamport.pdb
+C:\Users\Ahmed\Desktop\SYSR\Lamport\Lamport\obj\x86\Debug\Lamport.exe
+C:\Users\Ahmed\Desktop\SYSR\Lamport\Lamport\obj\x86\Debug\Lamport.pdb
+C:\Users\Ahmed\Desktop\SYSR\Lamport\Lamport\bin\Debug\Lamport.exe
+C:\Users\Ahmed\Desktop\SYSR\Lamport\Lamport\bin\Debug\Lamport.pdb
+C:\Users\Ahmed\Desktop\SYSR\Lamport\Lamport\obj\x86\Debug\Lamport.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\SYSR\TP\Bin\detecteur.exe
+C:\Users\Ahmed\Desktop\SYSR\TP\Bin\detecteur.pdb
+C:\Users\Ahmed\Desktop\SYSR\TP\Lamport\Lamport\obj\x86\Debug\Lamport.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\SYSR\TP\Lamport\Lamport\obj\x86\Debug\detecteur.exe
+C:\Users\Ahmed\Desktop\SYSR\TP\Lamport\Lamport\obj\x86\Debug\detecteur.pdb
+C:\Users\Ahmed\Desktop\SYSR\TP\Bin\detecteur.exe.config

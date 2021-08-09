@@ -1,0 +1,67 @@
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe.config
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.pdb
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csprojResolveAssemblyReference.cache
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.baml
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.g.cs
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.g.cs
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle_MarkupCompile.cache
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.g.resources
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.Properties.Resources.resources
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csproj.GenerateResource.Cache
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.exe
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.pdb
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\MahApps.Metro.dll
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\System.Windows.Interactivity.dll
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\MahApps.Metro.xml
+D:\Younes\Documents de Younes\SIQ\S2\TPs\SR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.baml
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe.config
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.exe
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.pdb
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.pdb
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\MahApps.Metro.dll
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\MahApps.Metro.xml
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.baml
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.g.resources
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\MahApps.Metro.dll
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe.config
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\MahApps.Metro.xml
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.baml
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.g.resources
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.exe
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.pdb
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.pdb
+C:\Users\Ahmed\Desktop\SYSR\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\bin\Debug\ExclusionMutuelle.exe.config
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.baml
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\ExclusionMutuelle.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\SYSR\TP\Bin\site.exe.config
+C:\Users\Ahmed\Desktop\SYSR\TP\Bin\site.exe
+C:\Users\Ahmed\Desktop\SYSR\TP\Bin\site.pdb
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\site_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\site_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\site.g.resources
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\site.exe
+C:\Users\Ahmed\Desktop\SYSR\TP\ExclusionMutuelle\ExclusionMutuelle\obj\Debug\site.pdb

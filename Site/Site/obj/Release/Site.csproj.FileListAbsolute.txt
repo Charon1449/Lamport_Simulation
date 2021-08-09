@@ -1,0 +1,17 @@
+C:\Users\pc4u\Desktop\TP\Site\Site\bin\Release\site.exe.config
+C:\Users\pc4u\Desktop\TP\Site\Site\bin\Release\site.exe
+C:\Users\pc4u\Desktop\TP\Site\Site\bin\Release\site.pdb
+C:\Users\pc4u\Desktop\TP\Site\Site\bin\Release\MahApps.Metro.dll
+C:\Users\pc4u\Desktop\TP\Site\Site\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pc4u\Desktop\TP\Site\Site\bin\Release\MahApps.Metro.xml
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\App.baml
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\MainWindow.g.cs
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\App.g.cs
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\site_MarkupCompile.cache
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\site_MarkupCompile.lref
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\MainWindow.baml
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\site.g.resources
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\ExclusionMutuelle.Properties.Resources.resources
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\Site.csproj.GenerateResource.Cache
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\site.exe
+C:\Users\pc4u\Desktop\TP\Site\Site\obj\Release\site.pdb
